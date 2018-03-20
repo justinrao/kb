@@ -1,2 +1,4 @@
 # kb
-Knowledge Base
+[Knowledge Base Wiki](wiki/wiki)
+
+
