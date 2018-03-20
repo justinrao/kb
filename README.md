@@ -1,4 +1,4 @@
 # kb
-[Knowledge Base Wiki](../../wiki/wiki)
+[Knowledge Base Wiki](../../wiki)
 
 
